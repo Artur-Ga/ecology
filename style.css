@@ -1,4 +1,4 @@
-html {
+headerhtml {
     scroll-behavior: smooth;
     box-sizing: border-box;
 }
@@ -613,7 +613,7 @@ body{
     }
 
     #about {
-        padding-top: 30px;
+
     }
 
     .description-header {
@@ -816,7 +816,7 @@ body{
     }
 
     #about {
-        padding-top: 30px;
+
     }
 
     .factories-text{
@@ -939,7 +939,7 @@ body{
     }
 
     #about {
-        padding-top: 30px;
+
     }
 
     .ecology{
